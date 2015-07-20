@@ -6,10 +6,10 @@ StreamXJS is a general purpose front-end representing a connected graph and mana
 
 ## Terminology
 
-Element := represents a graph vertex
-Connection := represents a graph edge
-Stream := represents a graph
-Plot := represents an area where graph get drawn
+* Element := represents a graph vertex
+* Connection := represents a graph edge
+* Stream := represents a graph
+* Plot := represents an area where graph get drawn
 
 ## Features
 
@@ -29,3 +29,6 @@ Supports desktop and mobile browsers.
 ### Run demo application
 * Checkout repository
 * Load demo/index.html in your browser
+
+![alt tag](https://raw.githubusercontent.com/tsimchev/streamxjs/master/demo/demo-screenshot.png "StreamXJS demo application")
+
