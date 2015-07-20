@@ -1,4 +1,4 @@
-# StreamxJS
+# StreamXJS
 
 ## About this project
 
@@ -30,5 +30,5 @@ Supports desktop and mobile browsers.
 * Checkout repository
 * Load demo/index.html in your browser
 
-![alt tag](https://raw.githubusercontent.com/tsimchev/streamxjs/master/demo/demo-screenshot.png =250x "StreamXJS demo application")
+<img src="https://raw.githubusercontent.com/tsimchev/streamxjs/master/demo/demo-screenshot.png" width="250" alt="StreamXJS demo application" />
 
