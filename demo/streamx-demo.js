@@ -28,7 +28,6 @@ var StreamxService = function(appConnection, elements, connections, streams){
 }
 
 
-
 ////////////// Data End ////////////////////
 
 var AppScreen = function(window, document){
